@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/archivo_black</item>
+        <item>@font/baloo_thambi</item>
+        <item>@font/bevan</item>
+        <item>@font/coda</item>
+        <item>@font/exo_thin</item>
+        <item>@font/source_code_pro_extralight</item>
+        <item>@font/source_code_pro_light</item>
+        <item>@font/source_code_pro_semibold</item>
+    </array>
+</resources>

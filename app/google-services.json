@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "697706105890",
+    "project_id": "adms---db",
+    "storage_bucket": "adms---db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697706105890:android:fb4051548545026c2f8e7b",
+        "android_client_info": {
+          "package_name": "com.example.assistancedistributionmonitoringsystemadms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697706105890-elemp5kiooc2hnirp96b6n02v1b4vqd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assistancedistributionmonitoringsystemadms",
+            "certificate_hash": "182660cd940f5364feee993f87630d4a6cd85115"
+          }
+        },
+        {
+          "client_id": "697706105890-fnic1uimpj0k307hdka7erjtf57k5080.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1e8cB7u4-YuYwhj7f-8Aba1gdqsy4-_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697706105890-fnic1uimpj0k307hdka7erjtf57k5080.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

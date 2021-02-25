@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background1"
+    tools:context=".data_append">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="389dp"
+        android:layout_height="263dp"
+        android:layout_marginTop="44dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/npc" />
+
+    <EditText
+        android:id="@+id/stud_name"
+        android:layout_width="350dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="36dp"
+        android:gravity="center"
+        android:ems="10"
+        android:hint="Full Name"
+        android:background="@drawable/fullname_text_design"
+        android:drawableLeft="@drawable/username_person"
+        android:drawablePadding="5dp"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+
+    <EditText
+        android:id="@+id/stud_sec"
+        android:layout_width="350dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="12dp"
+        android:gravity="center"
+        android:ems="10"
+        android:hint="Mobile Number i.e. +63 Country Code"
+        android:background="@drawable/phonenum"
+        android:drawableLeft="@drawable/ic_baseline_phone"
+        android:drawablePadding="5dp"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp"
+        android:inputType="phone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/stud_name" />
+
+    <EditText
+        android:id="@+id/stud_address"
+        android:layout_width="350dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="12dp"
+        android:gravity="center"
+        android:ems="10"
+        android:hint="Subsidy Status"
+        android:background="@drawable/subsidy_designtext"
+        android:drawableLeft="@drawable/subsidy_status_icon"
+        android:drawablePadding="5dp"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.475"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/stud_email" />
+
+    <EditText
+        android:id="@+id/stud_email"
+        android:layout_width="350dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="12dp"
+        android:gravity="center"
+        android:ems="10"
+        android:hint="Email Address"
+        android:background="@drawable/email_adress_text"
+        android:drawableLeft="@drawable/email_address"
+        android:drawablePadding="5dp"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp"
+        android:inputType="textEmailAddress"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.475"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/stud_sec" />
+
+    <Button
+        android:id="@+id/add2"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:background="@drawable/save_design"
+        android:drawableLeft="@drawable/save_icon"
+        android:drawablePadding="5dp"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp"
+        android:text="Save"
+        android:textColor="@color/white"
+        app:backgroundTint="@color/blue"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/stud_address"
+        app:layout_constraintVertical_bias="0.335" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
