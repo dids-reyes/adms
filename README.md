@@ -5,3 +5,4 @@ Java Mail API jar files https://code.google.com/archive/p/javamail-android/downl
 <p>
 <img src="https://i.ibb.co/RchSMGb/received-364106887956079.webp" alt="received-364106887956079" width="280" height="480">
 </p>
+### Splashscreen
