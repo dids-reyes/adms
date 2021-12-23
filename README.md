@@ -3,5 +3,5 @@ Mobile Application Project
 
 Java Mail API jar files https://code.google.com/archive/p/javamail-android/downloads to be included in project.
 <p>
-<img src="https://i.ibb.co/RchSMGb/received-364106887956079.webp" alt="received-364106887956079" width="280" height="400">
+<img src="https://i.ibb.co/RchSMGb/received-364106887956079.webp" alt="received-364106887956079" width="280" height="450">
 </p>
