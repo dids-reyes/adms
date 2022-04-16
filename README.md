@@ -5,6 +5,8 @@ Mobile Application Development Project
 
 Images used in Development are not my property and are used for educational purposes only.
 
+## Feel free to redistribute and modify as your own project
+
 <hr/>
 
 ### Contents
