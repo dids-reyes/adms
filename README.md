@@ -23,7 +23,9 @@ Images used in Development are not my property and are used for educational purp
 
 
 Java Mail API jar files https://code.google.com/archive/p/javamail-android/downloads to be included in project.
-![Alt Text](https://media.giphy.com/media/jODqcBqgZtBSevDRNR/giphy.gif)
+![License and Agreement](https://media.giphy.com/media/rTwv6pfKWo7fFE2P8L/giphy.gif) ![Alt Text](https://media.giphy.com/media/jODqcBqgZtBSevDRNR/giphy.gif) ![](https://media.giphy.com/media/Jp8lAR2EAS449d9Fk7/giphy.gif)
+
+
 <p>
   <img src="https://i.ibb.co/Yh3VvfX/received-278378680340374.webp" alt="received-278378680340374" width="290" height="530">
   <img src="https://i.ibb.co/3fmKK6k/received-250156306579707.webp" alt="received-250156306579707" width="290" height="530">
