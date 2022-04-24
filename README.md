@@ -7,8 +7,6 @@ Images used in Development are not my property and are used for educational purp
 
 ## Feel free to redistribute and modify as your own project
 
-<hr/>
-
 ### Contents
 - OTP Authentication
 - Email Authentication
@@ -37,6 +35,9 @@ It doesn't check whether the device has an access to internet. The app won't con
 
 ### Usage and Issues
 Clone this repository to your local machine and you're good to go!
+```
+git clone https://github.com/skedaddl3/adms.git
+```
 
 To resolve the "missing app valid identifier" at OTP Authentication:
 - Create your own Realtime Database at https://firebase.google.com/
@@ -44,4 +45,4 @@ To resolve the "missing app valid identifier" at OTP Authentication:
 - To add SHA-1, Open your Android Studio, Top Right click Gradle, click the Gradle icon, type `gradlew signingReport` or `gradle signingReport`
 - Copy and Paste the SHA-1 that will appear from your Android Studio's Terminal to your Firebase "add fingerprint" field.
 
-### Use Android Studio IDE for easy modification of the visual design.
+#### Use Android Studio IDE for easy modification of the visual design.
